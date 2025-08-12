@@ -18,9 +18,9 @@
 ---
 
 ## 📌 Dự án nổi bật
-- ⚡ **Quiz Plugin** – hiển thị câu hỏi trắc nghiệm trong game  
-- 🎣 **Auto Fishing Tool** – tự động câu cá trong game bằng Python  
-- 🌐 **Web bán tool** – giao diện hiện đại, thanh toán Banking VN  
+-  **Quiz Plugin** – hiển thị câu hỏi 
+-  **Tool AutoCauCa** – auto câu cá GTA V  
+-  **Web bán hack** – auto mua tool
 
 ---
 
